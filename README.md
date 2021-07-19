@@ -5,3 +5,4 @@
 ## 3. Introduction to MLlib and Linear regression - "Linear Regression - MLlib.ipynb"
 ## 4. Logistic Regression using MLlib - "Logistic_regression_Notebook.ipynb"
 ## 5. DTC,RFC,GradientB using MLlib - "Decision Trees & Random Forests.ipynb"
+## 6. Kmeans Clustering using MLlib - "Kmeans Clustering.ipynb"
