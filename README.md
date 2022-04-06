@@ -7,3 +7,4 @@
 ## 5. DTC,RFC,GradientB using MLlib - "Decision Trees & Random Forests.ipynb"
 ## 6. Kmeans Clustering using MLlib - "Kmeans Clustering.ipynb"
 ## 7. NLP using MLlib - "NLP.ipynb"
+## 8. Applying functions on Pandas/Spark dataframe - "Pandas_Spark_UDF.ipynb"
