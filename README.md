@@ -8,3 +8,4 @@
 ## 6. Kmeans Clustering using MLlib - "Kmeans Clustering.ipynb"
 ## 7. NLP using MLlib - "NLP.ipynb"
 ## 8. Applying functions on Pandas/Spark dataframe - "Pandas_Spark_UDF.ipynb"
+## 9. Delta table - Loading data from delta table - Saving back to delta table - Time Travel - Delta Table.ipynb
